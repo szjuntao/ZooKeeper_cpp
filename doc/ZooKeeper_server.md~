@@ -1,0 +1,16 @@
+Members in class ZooKeeper_server
+=================================
+
+## Server initialization
+------------------------
+
+```C++
+bool parse_config(char* filename)
+```
+
+Parse text file
+
+* return value
+  * true if parsing complete
+  * false if text file format is corrupted
+
