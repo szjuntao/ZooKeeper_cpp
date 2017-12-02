@@ -2,7 +2,7 @@
 server_port=8124
 client_port=8121
 
-#list of nodes organized by
+#list of machines organized by
 #zxid<one space>IP address
 0 127.0.0.1
 1 127.0.0.1
